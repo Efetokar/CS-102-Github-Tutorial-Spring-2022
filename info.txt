@@ -1,1 +1,45 @@
 Efe Tokar - 22103299 - https://github.com/Efetokar - Brawhalla
+
+PS C:\Users\efeto\Desktop\CS-102-Github-Tutorial-Spring-2022> git log
+commit d1f469c286d83d7d0513cc8830c63fb33632e882 (HEAD -> main, origin/main, origin/HEAD)
+Merge: cb2c63e d77583e
+Author: Efe Tokar <91374876+Efetokar@users.noreply.github.com>
+Date:   Fri Feb 11 20:27:50 2022 +0300
+
+    Merge pull request #1 from Efetokar/new_information
+
+    Efe_Tokar updated (VG) info.txt
+
+commit d77583e763b09c133d35619604f78b1afcd12f80 (origin/new_information, new_information)
+Author: Efe Tokar <efetokar@gmail.com>
+Date:   Fri Feb 11 20:21:21 2022 +0300
+
+    Efe_Tokar updated (VG) info.txt
+:...skipping...
+commit d1f469c286d83d7d0513cc8830c63fb33632e882 (HEAD -> main, origin/main, origin/HEAD)
+Merge: cb2c63e d77583e
+Author: Efe Tokar <91374876+Efetokar@users.noreply.github.com>
+Date:   Fri Feb 11 20:27:50 2022 +0300
+
+    Merge pull request #1 from Efetokar/new_information
+
+    Efe_Tokar updated (VG) info.txt
+
+commit d77583e763b09c133d35619604f78b1afcd12f80 (origin/new_information, new_information)
+Author: Efe Tokar <efetokar@gmail.com>
+Date:   Fri Feb 11 20:21:21 2022 +0300
+
+    Efe_Tokar updated (VG) info.txt
+
+commit cb2c63ee6945e72bdb21e2a05edeeabb27ba7de6
+Author: Efe Tokar <efetokar@gmail.com>
+Date:   Fri Feb 11 20:17:12 2022 +0300
+
+    Efe_Tokar updated info.txt
+
+commit 2d838a82e277c6cf300c887bc4b2fe1d155326d8
+Author: Efe Tokar <91374876+Efetokar@users.noreply.github.com>
+Date:   Fri Feb 11 20:13:23 2022 +0300
+
+    Initial commit
+:
